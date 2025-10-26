@@ -1,0 +1,16 @@
+.bright {
+  color: green;
+  font-weight: bold;
+}
+
+.sunny {
+  color: #eb9500ff;
+}
+
+.windy {
+  color: #727272ff;
+}
+
+.rainy {
+  color: #2718acff;
+}
